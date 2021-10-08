@@ -69,4 +69,4 @@ q) Quit config
 
 ## Future improvements
 
--[ ] [cron](https://man7.org/linux/man-pages/man8/cron.8.html) jobs can be implemented to carry out sync automatically on a predefined schedule
+- [ ] [cron](https://man7.org/linux/man-pages/man8/cron.8.html) jobs can be implemented to carry out sync automatically on a predefined schedule
